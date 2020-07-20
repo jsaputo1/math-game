@@ -7,7 +7,7 @@ class Question
     @num2=rand(1..20)
   end
 
-  def question
+  def new_question
     "What does #{@num1} plus #{@num2} equal?"
   end
 
