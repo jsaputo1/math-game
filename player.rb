@@ -6,6 +6,10 @@ class Player
     @name = name
   end
 
+  def lose_life
+    @lives -= 1
+  end
+
 # test = Player.new('Player1')
 # puts test.name
 # puts test.lives
