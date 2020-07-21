@@ -10,7 +10,4 @@ class Player
     @lives -= 1
   end
 
-# test = Player.new('Player1')
-# puts test.name
-# puts test.lives
 end

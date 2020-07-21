@@ -14,10 +14,6 @@ class Question
   def answer
     @num1+@num2
   end
-
-  # test = Question.new
-  # puts test.question
-  # puts test.answer
-
+  
 end
 

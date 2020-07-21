@@ -54,4 +54,3 @@ class Game
 end
 
 Game=Game.new()
-
